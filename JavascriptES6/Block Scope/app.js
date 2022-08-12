@@ -1,4 +1,5 @@
 // Block scope (let and Constant)
+// ประกาศตัวแปรด้านนอกและด้านใน
 
 let x = 10 
 let y = 50
